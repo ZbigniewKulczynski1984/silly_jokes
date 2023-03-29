@@ -1,9 +1,9 @@
 # silly_jokes
 
-##Build with: 
+## Build with: 
 - HTML
 - CSS
 - JS
 
-##Author: 
+## Author: 
 Zbigniew Kulczyński
